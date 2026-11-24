@@ -3,4 +3,4 @@ Oliver Yun, Nick Yaeger
 
 <iframe src="proposal.pdf" width="100%" height="900px"></iframe>
 
-<iframe src="milestone.pdf width="100%" height="900px"></iframe>
+<iframe src="milestone.pdf" width="100%" height="900px"></iframe>
